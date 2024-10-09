@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fourth-year undergraduate student from the School of Computer Science, Beijing University of Posts and Telecommunications. My research interests include 3D Reconstruction, Point Cloud, and Multimodal.
+I'm a fourth-year undergraduate student from the School of Computer Science, Beijing University of Posts and Telecommunications，currently preparing for graduate school applications. My research interests include 3D Reconstruction, Point Cloud, and Multimodal.
+
 I am very fortunate to be advised by Prof. XXX from the XXX Lab at School of Computer Science, Beijing University of Posts and Telecommunications. I was previously advised by Prof. XX at School of XXX, University Name.
 You can find my CV here: [Yuanjiang Wu's Curriculum Vitae](../assets/Yuanjiang_Wu'CV.pdf).
 
