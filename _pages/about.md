@@ -15,6 +15,7 @@ My research interests include Multimodal, Point Cloud, and 3D Reconstruction.
 I am very fortunate to be advised by Prof. XXX from the XXX Lab at School of Computer Science, Beijing University of Posts and Telecommunications. I was previously advised by Prof. XX at School of XXX, University Name.-->
 You can find my CV here: [Yuanjiang Wu's Curriculum Vitae](../assets/Yuanjiang_Wu'CV.pdf).
 
+The website is under construction. And I will post my paper reading notes and learning experiences as self-supervision and knowledge sharing. 😊
 
 <!--
 A data-driven personal website
